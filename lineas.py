@@ -5,8 +5,8 @@
 UNIVERSIDAD NACIONAL DE SAN AGUSTIN DE AREQUIPA
 Curso:Computacion 1
 Ing:Ramiro Banda Valdivia
-Estudiantes:Daniel Machacca
-            Fernando Miranda
+Estudiantes: George Daniel Machacca Catari
+             Fernando Jesús Miranda Apaza
 """
 a=float(input("Ingrese el valor de (a):\n"))
 b=float(input("Ingrese el valor de (b):\n"))
